@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan0203
 - 👀 I’m interested in Developing something New
 - 🌱 I’m currently learning web designing and android development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ... email:rohankumar93118@gmail.com
 
 <!---
